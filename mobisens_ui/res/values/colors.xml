@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="greenDark2">#689f4d</color>
+    <color name="greenDark">#416334</color>
+    <color name="greenLight">#82D05E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#736B64</color>
+    <color name="light_gray">#BBBDBF</color>
+    <color name="black">#000000</color>
+    <color name="light_bluish">#81DAF5</color>
+    <color name="transparent">#00000000</color>
+    
+    <color name="zblue">#33B5E5</color>
+    
+
+     <color name="actionbar_bg">#DDDDDD</color>
+      <color name="activity_black">#333333</color>
+     <color name="zdark_gray">#666666</color>
+    <color name="zsky_blue">#33b5eb</color>
+    
+    
+    <color name="yellow">#FFFF00</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="gray">#808080</color>
+    
+</resources>
